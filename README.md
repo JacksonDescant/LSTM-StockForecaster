@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a PyTorch-based LSTM (Long Short-Term Memory) model designed for stock price forecasting. The LSTM network is a type of recurrent neural network (RNN) that is particularly good at learning sequences, making it ideal for time series data like stock prices.
+This repository contains a PyTorch-based LSTM (Long Short-Term Memory) model designed for stock price forecasting. The LSTM network is a type of recurrent neural network (RNN) that is particularly good at learning sequences, making it ideal for time series data like stock prices. This model is trained on the SPY 500 ETF and is what it predicts.
 
 ## Model Details
 
